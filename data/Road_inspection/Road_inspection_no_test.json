@@ -1,0 +1,137 @@
+[
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_0.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_1.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_2.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_3.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_4.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_5.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_6.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_7.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_8.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_9.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_10.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_11.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_12.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_13.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_14.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_15.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_16.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_17.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_18.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/normal/test_normal_19.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_0.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_1.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_2.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_3.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_4.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_5.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/test/crack/test_crack_6.jpeg",
+    "output": "Abnormal"
+  }
+] 

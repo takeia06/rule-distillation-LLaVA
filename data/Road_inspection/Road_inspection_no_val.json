@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/train/normal/train_normal_12.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/train/normal/train_normal_13.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/train/normal/train_normal_14.jpeg",
+    "output": "No abnormality"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/train/crack/train_crack_8.jpeg",
+    "output": "Abnormal"
+  },
+  {
+    "instruction": "",
+    "input": "data/Road_inspection/Road_inspection/train/crack/train_crack_9.jpeg",
+    "output": "Abnormal"
+  }
+] 

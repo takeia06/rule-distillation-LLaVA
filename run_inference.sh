@@ -1,0 +1,1 @@
+python inference.py     --base_model llava-1.5-7b-hf     --data_file ./data/Road_inspection/Road_inspection_no_test.json     --image_base_path ""     --predictions_file ./predictions.json     --gpus "0"     --max_new_tokens 200     --temperature 0.7

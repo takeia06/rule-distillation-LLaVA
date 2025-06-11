@@ -1,0 +1,7 @@
+{
+  "description": "Template for Alpaca-style instruction following.",
+  "prompt_input": "Below is an instruction that describes a task, paired with an input that provides further context.\n\n### Instruction:\n{instruction}\n\n### Input:\n{input}\n\n### Response:\n",
+  "prompt_no_input": "Below is an instruction that describes a task.\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+  "response_split": "### Response:",
+  "max_tokens": 256
+}
