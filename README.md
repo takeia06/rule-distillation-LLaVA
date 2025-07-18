@@ -25,4 +25,4 @@
 ```bash
 git clone [https://github.com/takeia06/rule-distillation-LLaVA.git](https://github.com/takeia06/rule-distillation-LLaVA.git)
 cd rule-distillation-LLaVA
-pip install -r requirements.txt  # requirements.txt がある場合
+pip install -r requirements.txt  
